@@ -1,4 +1,4 @@
-# Ex--6-AWS-Account-setup-and-S3-creation-
+# Ex--2-AWS-Account-setup-and-S3-creation-
 
 ### NAME: Dhayananth.P.S
 ### REG NO: 212223040039
